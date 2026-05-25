@@ -1,4 +1,5 @@
 # AES JSON Native Editor - Burp Suite Extension
+[20260525-163912.jpg](https://postimg.cc/zVM6Dgxn)
 
 **AES JSON Native Editor** is a Burp Suite extension written in Python that seamlessly intercepts, decrypts, and re-encrypts AES-encrypted JSON payloads on the fly. 
 
